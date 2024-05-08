@@ -2,7 +2,6 @@
 
 - 🎓 Cursando o 3° semestre de análise e desenvolvimento de sistemas.
 - 📚 Atualmente estou estudando desenvolvimento front-end.
-- 🚀 Em breve adicionarei meu portifólio com os meus projetos pessoais.
 
 <h2>📌Conhecimentos</h2>
 
@@ -11,11 +10,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
-<h2>Contatos</h2>
-
-<a href="https://www.linkedin.com/in/felipesalusto/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
 
 
