@@ -1,8 +1,6 @@
-<h2 align="left">Olá! Me chamo Felipe, e sou Desenvolvedor Front-end.</h2>
+<h2 align="left">Olá! Me chamo Felipe, sou Desenvolvedor Front-end.</h2>
 
 📚 Atualmente cursando o 5° semestre de análise e desenvolvimento de sistemas.
-
-💼 Em busca da minha primeira oportunidade como desenvolvedor.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FelipeSalusto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
