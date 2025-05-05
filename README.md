@@ -1,12 +1,6 @@
-<h2 align="left">Olá! Me chamo Felipe, sou Desenvolvedor Front-end.</h2>
+<h2 align="left">Hi! My name is Felipe, I'm a Front-end Developer.</h2>
 
-<p>📚 Atualmente cursando o 5° semestre de análise e desenvolvimento de sistemas.</p>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeSalusto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FelipeSalusto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<p>📚 Currently in the last semester of Systems Analysis and Development.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
