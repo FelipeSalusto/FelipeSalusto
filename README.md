@@ -1,6 +1,6 @@
 <h2 align="left">Hi! My name is Felipe.</h2>
 
-<p>📚 I am currently a front-end developer, but I am always seeking to develop my programming skills. My goal is to become a Full-Stack developer and master the main technologies used in the programming world.</p>
+<p>📚 I am currently a front-end developer, and I am always seeking to develop my programming skills. My goal is to become a Full-Stack developer and master the main technologies used in the programming world.</p>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
